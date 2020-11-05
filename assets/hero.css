@@ -13,6 +13,8 @@
     font-weight: 100;
     line-height: .4;
     letter-spacing: 2px;
+    opacity: 0;
+    animation: fadeUp .5s forwards;
 }
 .first-letter{
     text-transform: uppercase;

@@ -9,7 +9,7 @@
     color:var(--body-font-color);
     margin: 2.4rem 0;
 }
-.headline-dark{
+ .headline-dark{
     color: var(--main-font-color-dark);
     letter-spacing: .7rem;
     margin-right: -.7rem;
