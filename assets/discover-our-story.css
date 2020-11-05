@@ -1,0 +1,32 @@
+.global-headline{
+    text-align: center;
+    margin-top: 3.9rem;
+}
+.discover-our-story .global-headline{
+    margin-top: 6.9rem;
+}
+.global-headline .asterisk{
+    color:var(--body-font-color);
+    margin: 2.4rem 0;
+}
+.headline-dark{
+    color: var(--main-font-color-dark);
+    letter-spacing: .7rem;
+    margin-right: -.7rem;
+}
+.global-headline .sub-headline{
+    line-height: .42;
+}
+.restaurant-info{
+    text-align: center;
+}
+.restaurant-description{
+    margin-bottom: 3rem;
+}
+.restaurant-description p{
+    line-height: 1.6;
+    margin-bottom: 2.4rem;
+}
+.restaurant-info-img{
+    padding-top: 40px;
+}

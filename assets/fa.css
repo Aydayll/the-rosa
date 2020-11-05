@@ -1,0 +1,9 @@
+.fa-times{
+    display: none;
+}
+.open .fa-times{
+    display: block;
+}
+.open .fa-bars{
+    display: none;
+}
